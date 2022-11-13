@@ -17,5 +17,17 @@ const prods = [
         company :"Apple",
         camera : "32px"
         
+    },
+    ,{
+        id:2,
+        name:"Iphone 13",
+        price : 12000,
+        ram:12,
+        stockage:"128Gb",
+        company :"Apple",
+        camera : "32px"
+        
     }
 ]
+
+module.exports = prods;
